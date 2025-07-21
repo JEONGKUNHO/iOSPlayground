@@ -4,6 +4,7 @@ let workspace = Workspace(
   name: "iOSPlayground",
   projects: [
     "Projects/App",
-    "Projects/Features/ShareExtension"
+    "Projects/Features/ShareExtension",
+    "Projects/Features/HealthKitDemo"
   ]
 )
